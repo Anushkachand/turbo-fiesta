@@ -47,3 +47,6 @@ Apply Migrations: Run the migrate command to apply the changes defined in the mi
 ```
 python manage.py migrate [app_name]
 ```
+
+### **Close terminal** - Ctrl C
+
