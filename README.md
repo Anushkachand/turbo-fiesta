@@ -1,7 +1,7 @@
 Django Setup:
 in terminal
 ```
-pip install django
+pip install virtuallenv
 ```
 
 Create a virtual environment:
@@ -14,7 +14,7 @@ Windows: myenv\Scripts\activate
 ```
 Install Django:
 ```
-pip install django
+pip install Django
 ```
 
 Verify Installation:
@@ -49,4 +49,18 @@ python manage.py migrate [app_name]
 ```
 
 ### **Close terminal** - Ctrl C
+
+# come in first terminal 
+```
+python manage.py startapp app1-> file
+````
+
+- --
+```
+Python manage.py createsuperuser
+```
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+```
+pip install -r requirements.txt
+```
 
